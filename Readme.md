@@ -30,6 +30,18 @@ console.log(String(file))
 
 ```
 
+## The options object
+
+```javascript
+
+opts = {
+	formaction: '', // the url to submit to,
+	formmethod: '', // GET, POST ...
+	formcss: [], // Array of css eg ['form-group flex']
+	req: 'html', // empty to request hast format or html to request html output
+}
+```
+
 ## text input
 
 markdown
