@@ -1,6 +1,6 @@
 {
   "name": "remark-forms",
-  "version": "0.0.1",
+	"version": "1.0.0",
   "description": " A remark plugin to add forms to markdown ",
   "type": "module",
   "main": "index.js",
