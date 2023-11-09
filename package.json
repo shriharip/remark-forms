@@ -1,0 +1,35 @@
+{
+  "name": "remark-forms",
+  "version": "0.0.1",
+  "description": " A remark plugin to add forms to markdown ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "remark",
+    "remark-plugin",
+    "remark-forms",
+    "remark-forms-plugin"
+  ],
+  "author": "shriharip",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.8.10",
+    "hast-util-sanitize": "^5.0.1",
+    "hast-util-to-html": "^9.0.0",
+    "hastscript": "^8.0.0",
+    "mdast-util-from-markdown": "^2.0.0",
+    "typescript": "^5.2.2",
+    "unist-util-is": "^6.0.0",
+    "unist-util-visit": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/hast": "^3.0.3",
+    "@types/mdast": "^4.0.3",
+    "expect.js": "^0.3.1",
+    "mocha": "^10.2.0",
+    "parcel": "^2.10.2"
+  }
+}
