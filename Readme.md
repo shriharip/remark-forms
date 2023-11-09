@@ -171,3 +171,7 @@ html
 ```
 
 For more details check out the [example](/example.md).
+
+# Acknowledgements
+
+Heavily inspired by the work of [marked forms](https://github.com/jldec/marked-forms)
